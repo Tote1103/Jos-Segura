@@ -1,0 +1,23 @@
+[
+  {
+        "nom" : "Caja con Tulipanes",
+        "pre" : 150,
+        "can" : 10,
+        "img" : "0001.jpg"
+  },
+
+  {
+        "nom" : "Caja con Rosas",
+        "pre" : 130,
+        "can" : 7,
+        "img" : "0002.jpg"
+  },
+
+  {
+        "nom" : "Girasoles",
+        "pre" : 70,
+        "can" : 15,
+        "img" : "0003.jpg"
+  },
+
+]
